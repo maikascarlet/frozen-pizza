@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "N n",
+    " B "
+  ],
+  "key": {
+    "#": "minecraft:dragon_egg",
+    "N": "minecraft:nether_star",
+    "n": "minecraft:netherite_block",
+    "B": "minecraft:bedrock"
+  },
+  "result": {
+    "id": "frozen-pizza:frozen_pizza",
+    "count": 1
+  }
+}
