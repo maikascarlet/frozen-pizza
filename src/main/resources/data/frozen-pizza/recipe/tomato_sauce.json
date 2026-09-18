@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:netherrack"
+  },
+  "result": {
+    "id": "frozen-pizza:tomato_sauce",
+    "count": 1
+  }
+}
